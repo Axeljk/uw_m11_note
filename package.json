@@ -1,7 +1,7 @@
 {
-  "name": "note-taker",
+  "name": "uw-m11-note",
   "version": "1.0.0",
-  "description": "",
+  "description": "Takes and log notes.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
