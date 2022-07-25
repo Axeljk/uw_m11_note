@@ -3,8 +3,10 @@ let noteText;
 let saveNoteBtn;
 let newNoteBtn;
 let noteList;
+console.log("penis?")
 
 if (window.location.pathname === '/notes') {
+	console.log("Penis located")
   noteTitle = document.querySelector('.note-title');
   noteText = document.querySelector('.note-textarea');
   saveNoteBtn = document.querySelector('.save-note');
