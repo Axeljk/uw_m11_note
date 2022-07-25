@@ -61,7 +61,7 @@ function newId(db) {
 	if (ids.length > 0)
 		return Math.max(...ids) + 1;
 	else
-		return 0;
+		return 1;
 }
 
 module.exports = router;
